@@ -3,9 +3,6 @@
 ## Description
 This project demonstrates various Data Structures and Algorithms using a Wikipedia-like graph, implemented in Java.
 
-## Complexity Analysis
-Each algorithm comes with a detailed complexity analysis, discussing its time and space efficiency.
-
 ## Project Report
 A comprehensive PDF report is included, detailing the theoretical aspects of the algorithms, their implementation details, and the complexity analysis.
 
